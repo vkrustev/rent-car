@@ -1,0 +1,43 @@
+
+.sidebar {
+    border-right: 1px solid ;
+    float:left;
+    flex: 0.3;
+    width: 250px; 
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: block;
+    height: 100%!important;
+
+}
+
+
+  .sidebar-item{
+    display: flex;
+    
+    margin-left: 30px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: inherit;
+    text-decoration: inherit;
+    text-transform: uppercase;
+    outline: none;
+  }
+  .sidebar-item1{
+
+    display: flex;
+    
+    margin-left: 30px;
+    margin-bottom: 100%;
+    font-size: 20px;
+    color: inherit;
+    text-decoration: inherit;
+    text-transform: uppercase;
+    outline: none;
+  }
+
+  
+
+  
+  
